@@ -7,3 +7,7 @@ In this project I explored a database of every LEGO set ever built. The Rebricka
 [Link to project](https://github.com/NickZward/Datacamp-projects/blob/master/Exploring%2067%20years%20of%20Lego/notebook.ipynb)
 
 [Data used](https://rebrickable.com/downloads/x)
+
+### Project 2: A New Era of Data Analysis in Baseball
+
+[Link to project]
