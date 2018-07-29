@@ -6,4 +6,4 @@ Technologies used:
 - Pandas
 - Jupyter Notebook
 
-[Link to report(https://github.com/NickZward/Datacamp-projects/blob/master/Exploring%20the%20Bitcoin%20cryptocurrency%20market/notebook.ipynb)
+[Link to report](https://github.com/NickZward/Datacamp-projects/blob/master/Exploring%20the%20Bitcoin%20cryptocurrency%20market/notebook.ipynb)
