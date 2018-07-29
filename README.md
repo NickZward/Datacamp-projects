@@ -53,5 +53,6 @@ Technologies used:
 - Networkx
 - Jupyter Notebook
 
-[Link to report]
+[Link to report](https://github.com/NickZward/Datacamp-projects/blob/master/A%20Network%20analysis%20of%20Game%20of%20Thrones/notebook.ipynb)
+
 [Data used](https://github.com/mathbeveridge/asoiaf)
