@@ -69,4 +69,4 @@ Technologies used:
 - Matplotlib
 - Jupyter Notebook
 
-[Link to report]
+[Link to report](https://github.com/NickZward/Datacamp-projects/blob/master/Dr.%20Semmelweis%20and%20the%20discovery%20of%20handwashing/notebook.ipynb)
